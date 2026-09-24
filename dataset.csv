@@ -1,0 +1,19 @@
+text,sentiment
+"I absolutely loved this movie!",positive
+"The movie was amazing and enjoyable.",positive
+"What a wonderful experience.",positive
+"I really liked the story.",positive
+"This was a fantastic film.",positive
+"The acting was excellent.",positive
+"I enjoyed every minute of it.",positive
+"The movie was okay.",neutral
+"It was an average movie.",neutral
+"The story was neither good nor bad.",neutral
+"It was fine, nothing special.",neutral
+"I have mixed feelings about it.",neutral
+"The movie was boring.",negative
+"I hated this movie.",negative
+"The story was terrible.",negative
+"I really disliked the film.",negative
+"It was a disappointing experience.",negative
+"The movie was awful.",negative
