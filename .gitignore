@@ -1,3 +1,5 @@
 .venv/
 __pycache__/
 train_all.csv
+val_all.csv
+test_all.csv
